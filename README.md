@@ -10,5 +10,6 @@ This repository contains a simple HTML page that serves as an introduction to my
 
 # Getting Started
 
-To view the webpage, simply click:
+To view the webpage, simply click: https://thedogukandizman.github.io/fs16_1-basic-html/
+
 
